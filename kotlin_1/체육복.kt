@@ -1,4 +1,6 @@
-package kotlin_arin
+package kotlin_1
+
+import kotlin_2.Solution
 
 fun main() {
     Solution().solution(5, intArrayOf(1,2), intArrayOf(3))
