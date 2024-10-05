@@ -1,7 +1,7 @@
 package kotlin_2
 
 class Solution {
-    fun solution(record: Array<String>): Array<Any> {
+    fun solution(record: Int, intArrayOf: IntArray, intArrayOf1: IntArray): Array<Any> {
         var member: MutableMap<String, String> = mutableMapOf()
 
         record.forEach {
